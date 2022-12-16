@@ -1,6 +1,6 @@
 --[[ Credits
-    Matas#3535 @matas - Created UI
-    bored#9316 @wally hub user - Helped make library
+    $ onze - Created UI
+    $ onze - made library
 ]]
 -- // Variables
 local ws = game:GetService("Workspace")
@@ -19,9 +19,9 @@ local library = {
     ended = {},
     changed = {},
     folders = {
-        main = "splix",
-        assets = "splix/assets",
-        configs = "splix/configs"
+        main = "onze",
+        assets = "onze/assets",
+        configs = "onze/configs"
     },
     shared = {
         initialized = false,
